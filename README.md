@@ -129,3 +129,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
 - code splitting
 - postcss setup
 - babel config / webpack config
+
+6. Routing
+
+Routing 은 page 폴더 안에서 파일 및 폴더 이름 기반으로 자동 routing 설정이 된다. 기존에 react-router 를 사용 해야 했던 것 보다 훨씬 간편하다.
